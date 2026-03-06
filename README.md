@@ -12,7 +12,7 @@
     <a href="mailto:hesenovaefsane678@gmail.com">
       <img src="https://img.shields.io/badge/Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
-    <a href="[https://www.linkedin.com/](https://www.linkedin.com/in/efsane-hesenova-716066338/)">
+    <a href="https://www.linkedin.com/in/efsane-hesenova-716066338/">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
   </p>
@@ -74,11 +74,4 @@
   <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" />
 </p>
 
-</div>
-
----
-
-<div align="center">
-  <p><b>Profile Views</b></p>
-  <img src="https://profile-counter.glitch.me/Hasanova-A/count.svg" alt="Profile Views" />
 </div>
